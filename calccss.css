@@ -1,0 +1,24 @@
+
+html {
+    font-family: arial;
+    font-size: 1em;
+    background-color: burlywood;
+    padding: 1em;
+    
+}
+
+body {
+    color: maroon;
+    size: 1em;
+    padding: 1em;
+    border-radius: 10px;
+    border-radius: 15px;
+    border: 4px solid gold;
+    padding: inherit;
+        
+}
+button {
+    font-family: arial;
+    font-size: .88em;
+}
+
